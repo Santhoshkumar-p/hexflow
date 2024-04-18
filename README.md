@@ -16,8 +16,8 @@ It is mainly built for tinygrad (https://github.com/tinygrad/tinygrad) developme
 
 **[Progress]**
 
-The current ability is to run the Baby Llama2 15M model on a DSP simulator at a rate of 0.03 tokens per second.
+The current ability is to run the **Baby Llama2 15M model** on a DSP simulator at a rate of 0.03 tokens per second.
 <img width="1148" alt="image" src="https://github.com/Santhoshkumar-p/hexflow/assets/24734488/3668f2dd-603f-48df-a453-3724523c9b39">
-
+And **256K model** is producing at a rate of 0.3 tokens per second which is a huge improvement and obvious one.
 The target is to achieve a processing rate of at least 10 tokens per second for the Baby Llama2 15M model running on the DSP simulator.
 
